@@ -25,7 +25,7 @@ def output_md(titles,location):
     mdfile = open(location,"w+",encoding='UTF-8')
     try:
         for index in range(len(titles)-1):
-            mdfile.write("- ["+titles[index]+"](/content/"+titles[index]+".html)\n")
+            mdfile.write("- ["+titles[index]+"](https://stata-club.github.io/library/pythonhouse/content/"+titles[index]+".html)\n")
     finally:
         mdfile.close()
         return 1
@@ -51,7 +51,7 @@ conta = rootsoup("index.html","rich_media_content")
 
 title = []
 for tag in conta.find_all('a'):
-    init_html(tag.next_element,tag.get('href'))
+    #init_html(tag.next_element,tag.get('href'))
     while(isinstance(tag.next_element,NavigableString) == False):
         tag = tag.next_element
     title.append(tag.next_element)

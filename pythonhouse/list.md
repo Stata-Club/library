@@ -1,10 +1,6 @@
-# “Python小屋”公众号历史文章分类速查表
-
-这里是董付国老师的微信公众号"python小屋"的历史文章速查列表，在此特别感谢董付国老师的授权，内容版权属于董付国老师。
-
----------------------
-
-
+- [《Python程序设计开发宝典》全面上架（新书超低价优惠+转发积攒送书）](https://stata-club.github.io/library/pythonhouse/content/《Python程序设计开发宝典》全面上架（新书超低价优惠+转发积攒送书）.html)
+- [《Python程序设计开发宝典》第一波转发积攒活动中奖名单](https://stata-club.github.io/library/pythonhouse/content/《Python程序设计开发宝典》第一波转发积攒活动中奖名单.html)
+- [1900页Python系列PPT分享一：基础知识（106页）](https://stata-club.github.io/library/pythonhouse/content/1900页Python系列PPT分享一：基础知识（106页）.html)
 - [Python循环嵌套应用案例一则：判断丑数](https://stata-club.github.io/library/pythonhouse/content/Python循环嵌套应用案例一则：判断丑数.html)
 - [当Python列表遇上复合赋值运算符+=](https://stata-club.github.io/library/pythonhouse/content/当Python列表遇上复合赋值运算符+=.html)
 - [Python编程常见出错信息及原因分析（4）](https://stata-club.github.io/library/pythonhouse/content/Python编程常见出错信息及原因分析（4）.html)
@@ -388,4 +384,3 @@
 - [Python扩展库安装工具pip的高级用法](https://stata-club.github.io/library/pythonhouse/content/Python扩展库安装工具pip的高级用法.html)
 - [Python程序编译与反编译](https://stata-club.github.io/library/pythonhouse/content/Python程序编译与反编译.html)
 - [Python安装扩展库与打包成exe可执行文件的方法](https://stata-club.github.io/library/pythonhouse/content/Python安装扩展库与打包成exe可执行文件的方法.html)
-
