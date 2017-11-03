@@ -18,12 +18,20 @@ We welcome readers to contribute to us, recommend valuable learning materials an
 
 ## Stata
 
+- [【随机模拟与金融数据处理Stata教程】【李春涛，张璇】【中国金融出版社, 2009】](/stata/)
 - [用Stata学计量](/.../)
+- [Baum－2016－An_Introduction_to_Stata_Programming_（2ed]()
+- [stata十八讲]()
+
 
 ## Python
 
-- ["Python小屋"公众号历史文章分类速查表](/pythonhouse/index.html)
-- [A Brief Introdution to Python_1](/A Brief Introdution to Python/python.pdf)
-- [A Brief Introdution to Python_2](/A Brief Introdution to Python/python_part2.pdf)
+- ["Python小屋"公众号历史文章分类速查表](/pythonhouse/index.md)
+- [A Brief Introdution to Python_1](https://github.com/Stata-Club/library/blob/master/A%20Brief%20Introdution%20to%20Python/python.pdf)
+- [A Brief Introdution to Python_2](https://github.com/Stata-Club/library/blob/master/A%20Brief%20Introdution%20to%20Python/python_part2.pdf)
+- []
 
 
+## 正则表达式
+
+- [正则表达式必知必会(已修整)](http://qunying.jb51.net:81/201209/books/zzbds_jb51.rar)
