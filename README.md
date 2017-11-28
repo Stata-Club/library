@@ -19,9 +19,6 @@ We welcome readers to contribute to us, recommend valuable learning materials an
 ## Stata
 
 - [【随机模拟与金融数据处理Stata教程】【李春涛，张璇】【中国金融出版社, 2009】](https://stata-club.github.io/library/stata/%E3%80%90%E9%9A%8F%E6%9C%BA%E6%A8%A1%E6%8B%9F%E4%B8%8E%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Stata%E6%95%99%E7%A8%8B%E3%80%91%E3%80%90%E6%9D%8E%E6%98%A5%E6%B6%9B%EF%BC%8C%E5%BC%A0%E7%92%87%E3%80%91%E3%80%90%E4%B8%AD%E5%9B%BD%E9%87%91%E8%9E%8D%E5%87%BA%E7%89%88%E7%A4%BE%2C%202009%E3%80%91.pdf)
-- [Baum－2016－An_Introduction_to_Stata_Programming_（2ed](https://stata-club.github.io/library/stata/Baum－2016－An_Introduction_to_Stata_Programming_（2ed）.pdf)
-- [stata十八讲](https://stata-club.github.io/library/stata/stata%E5%8D%81%E5%85%AB%E8%AE%B2.pdf)
-- [Microeconometrics Using Stata](http://pan.baidu.com/s/1c11gL8G)
 
 
 ## Python
